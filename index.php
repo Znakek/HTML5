@@ -7,6 +7,9 @@
 </head>
 
 <body>
-Så er er vi kørende
+
+	<div id="content">
+		Så er er vi kørende
+	</div>
 </body>
 </html>
